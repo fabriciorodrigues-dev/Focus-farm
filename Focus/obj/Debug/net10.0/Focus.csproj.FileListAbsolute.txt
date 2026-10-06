@@ -1,0 +1,30 @@
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\bin\Debug\net10.0\Focus.exe
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\bin\Debug\net10.0\Focus.deps.json
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\bin\Debug\net10.0\Focus.runtimeconfig.json
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\bin\Debug\net10.0\Focus.dll
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\bin\Debug\net10.0\Focus.pdb
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\obj\Debug\net10.0\Focus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\obj\Debug\net10.0\Focus.AssemblyInfoInputs.cache
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\obj\Debug\net10.0\Focus.AssemblyInfo.cs
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\obj\Debug\net10.0\Focus.csproj.CoreCompileInputs.cache
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\obj\Debug\net10.0\Focus.dll
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\obj\Debug\net10.0\refint\Focus.dll
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\obj\Debug\net10.0\Focus.pdb
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\obj\Debug\net10.0\Focus.genruntimeconfig.cache
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\obj\Debug\net10.0\ref\Focus.dll
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus\Focus\obj\Debug\net10.0\Focus.csproj.Up2Date
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\bin\Debug\net10.0\Focus.exe
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\bin\Debug\net10.0\Focus.deps.json
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\bin\Debug\net10.0\Focus.runtimeconfig.json
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\bin\Debug\net10.0\Focus.dll
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\bin\Debug\net10.0\Focus.pdb
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\obj\Debug\net10.0\Focus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\obj\Debug\net10.0\Focus.AssemblyInfoInputs.cache
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\obj\Debug\net10.0\Focus.AssemblyInfo.cs
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\obj\Debug\net10.0\Focus.csproj.CoreCompileInputs.cache
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\obj\Debug\net10.0\Focus.dll
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\obj\Debug\net10.0\refint\Focus.dll
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\obj\Debug\net10.0\Focus.pdb
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\obj\Debug\net10.0\Focus.genruntimeconfig.cache
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\obj\Debug\net10.0\ref\Focus.dll
+C:\Users\fafan\Coisas\Programação\C#\Meus Projetos\Focus Project\Focus\obj\Debug\net10.0\Focus.csproj.Up2Date
