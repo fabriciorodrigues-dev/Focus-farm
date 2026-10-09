@@ -2,10 +2,12 @@
 {
     internal class Player
     {
-        public string Name;
-        public string Occupation;
-        public bool FocusMode = false;
-        public int FocusSessions = 0;
+        public string name;
+        public string occupation;
+        public bool focusMode = false;
+        public int focusSessions = 0;
+        public int xp = 0;
+        public int level = 1;
 
         //Define Occupation
         public static string DefineOccupation(int temp)
@@ -30,8 +32,8 @@
         // Contructor
         public Player(string name, string occupation)
         {
-            this.Name = name;
-            this.Occupation = occupation;
+            this.name = name;
+            this.occupation = occupation;
         }
     }
 }

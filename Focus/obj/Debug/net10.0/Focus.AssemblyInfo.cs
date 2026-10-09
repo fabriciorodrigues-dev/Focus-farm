@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Focus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aaa70b4a33ce4088e7efcf9457576366c77a20a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Focus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Focus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

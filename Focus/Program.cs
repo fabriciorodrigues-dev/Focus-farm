@@ -4,6 +4,7 @@ int temp;
 string name = "";
 string occupation = "";
 
+// Set Player
 Console.WriteLine("========================");
 Console.WriteLine("Hello! Welcome to Focus!");
 
@@ -29,38 +30,53 @@ else
 Player player;
 player = new Player(name, occupation);
 
+// Run Focus
 temp = 0;
-while (temp != 3)
+while (temp != 4)
 {
-    player.FocusMode = false;
+    player.focusMode = false;
     Console.WriteLine("\n========================");
 
+    // Player finished Focus and earned XP
     if (temp == 1)
+    {
         Console.WriteLine("Focus Mode is off.\n");
+        //Add xp
+        player.xp = ProgressionSystem.AddXp(player.xp);
+        //Check level up
+        if (ProgressionSystem.LevelCheck(player) == true)
+            Console.WriteLine("Level Up! You've reached Level " + player.level + "!");
+    }
 
-    if(temp == 2)
-        Console.WriteLine("You have completed " + player.FocusSessions + " Focus Sessions.\n");
+    if (temp == 2)
+        Console.WriteLine("You have completed " + player.focusSessions + " Focus Sessions.\n");
 
-    Console.WriteLine("What would you like to do now, " + player.Name + "?");
+    if (temp == 3)
+        Console.WriteLine(ProgressionSystem.GetXpStatus(player.level, player.xp));
+
+    //Menu
+    Console.WriteLine("What would you like to do now, " + player.name + "?");
     Console.WriteLine("[1] Turn on Focus Mode");
     Console.WriteLine("[2] Check Focus Count");
-    Console.WriteLine("[3] End Session");
+    Console.WriteLine("[3] Check XP information");
+    Console.WriteLine("[4] End Session");
     Console.Write("\nPlease, type a number: ");
     temp = int.Parse(Console.ReadLine());
 
-    if(temp == 1)
+    //Focus On
+    if (temp == 1)
     {
-        player.FocusMode = true;
-        player.FocusSessions++;
+        player.focusMode = true;
+        player.focusSessions++;
         Console.WriteLine("\n========================");
         Console.WriteLine("Focus Mode is on.");
         Console.WriteLine("\n[1] Turn off Focus Mode");
-        Console.WriteLine("[3] End Session");
+        Console.WriteLine("[4] End Session");
         Console.Write("\nPlease, type a number: ");
         temp = int.Parse(Console.ReadLine());
     }
-    
+
 }
 
 Console.WriteLine("\n\n\n========================");
-Console.WriteLine("See you later " + player.Name + "!");
+Console.WriteLine("See you later " + player.name + "!");

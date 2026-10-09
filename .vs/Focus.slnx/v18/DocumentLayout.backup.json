@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\fafan\\Coisas\\Programa\u00E7\u00E3o\\C#\\Meus Projetos\\Focus Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D11636D-5350-10BA-73AB-EECE24C70396}|Focus\\Focus.csproj|c:\\users\\fafan\\coisas\\programa\u00E7\u00E3o\\c#\\meus projetos\\focus project\\focus\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D11636D-5350-10BA-73AB-EECE24C70396}|Focus\\Focus.csproj|solutionrelative:focus\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D11636D-5350-10BA-73AB-EECE24C70396}|Focus\\Focus.csproj|c:\\users\\fafan\\coisas\\programa\u00E7\u00E3o\\c#\\meus projetos\\focus project\\focus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D11636D-5350-10BA-73AB-EECE24C70396}|Focus\\Focus.csproj|solutionrelative:focus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D11636D-5350-10BA-73AB-EECE24C70396}|Focus\\Focus.csproj|c:\\users\\fafan\\coisas\\programa\u00E7\u00E3o\\c#\\meus projetos\\focus project\\focus\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D11636D-5350-10BA-73AB-EECE24C70396}|Focus\\Focus.csproj|solutionrelative:focus\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D11636D-5350-10BA-73AB-EECE24C70396}|Focus\\Focus.csproj|c:\\users\\fafan\\coisas\\programa\u00E7\u00E3o\\c#\\meus projetos\\focus project\\focus\\progressionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D11636D-5350-10BA-73AB-EECE24C70396}|Focus\\Focus.csproj|solutionrelative:focus\\progressionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ProgressionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\fafan\\Coisas\\Programa\u00E7\u00E3o\\C#\\Meus Projetos\\Focus Project\\Focus\\ProgressionSystem.cs",
+              "RelativeDocumentMoniker": "Focus\\ProgressionSystem.cs",
+              "ToolTip": "C:\\Users\\fafan\\Coisas\\Programa\u00E7\u00E3o\\C#\\Meus Projetos\\Focus Project\\Focus\\ProgressionSystem.cs",
+              "RelativeToolTip": "Focus\\ProgressionSystem.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:32:12.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fafan\\Coisas\\Programa\u00E7\u00E3o\\C#\\Meus Projetos\\Focus Project\\Focus\\Program.cs",
               "RelativeDocumentMoniker": "Focus\\Program.cs",
               "ToolTip": "C:\\Users\\fafan\\Coisas\\Programa\u00E7\u00E3o\\C#\\Meus Projetos\\Focus Project\\Focus\\Program.cs",
               "RelativeToolTip": "Focus\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T00:20:30.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\fafan\\Coisas\\Programa\u00E7\u00E3o\\C#\\Meus Projetos\\Focus Project\\Focus\\Player.cs",
               "RelativeDocumentMoniker": "Focus\\Player.cs",
               "ToolTip": "C:\\Users\\fafan\\Coisas\\Programa\u00E7\u00E3o\\C#\\Meus Projetos\\Focus Project\\Focus\\Player.cs",
               "RelativeToolTip": "Focus\\Player.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T03:14:08.151Z"
+              "WhenOpened": "2026-10-06T03:14:08.151Z",
+              "EditorCaption": ""
             }
           ]
         }
